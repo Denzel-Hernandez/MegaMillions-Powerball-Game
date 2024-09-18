@@ -24,8 +24,6 @@ A lottery simulation game built using **C#**. This project allows users to simul
 
 ## Future Improvements
 - Implement a feature to simulate multiple draws and calculate user odds.
-- Add a tracking system for user wins and losses across multiple plays.
-- Enhance the user interface for better interactivity and experience.
 
 ## Contributions
 Feel free to fork this repository, submit issues, or make pull requests to contribute to the project!
